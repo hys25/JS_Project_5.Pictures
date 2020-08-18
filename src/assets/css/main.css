@@ -224,8 +224,7 @@ h4 {
 ;
 }
 .main .file_upload > button {
-  float: right;
-  width: 8em;
+  width: 100%;
   /* example */
 
   height: 100%;
@@ -288,9 +287,13 @@ h4 {
 .main .email {
   margin-top: 1.5rem;
   text-align: center;
+  text-align: center;
+  font-size: 2.0rem;
+  font-family: 'Circe Light', sans-serif;
+  
 }
 .main .email a {
-  text-decoration: underline;
+  text-decoration: none;
   color: inherit;
 }
 .main .phone {
@@ -1619,6 +1622,9 @@ border: 1px solid white;
     width: 2rem;
     height: 2rem;
   }
+  .main-slider-item img {
+    width: 90vw;
+  }
   .main .logo {
     font-size: 1.5rem;
     line-height: 4rem;
@@ -1645,6 +1651,9 @@ border: 1px solid white;
   .main .button-order-img {
     right: -4rem;
   }
+  .main .p-heading-italic {
+    margin-top: 1.5rem;
+}
   .promo {
     padding: 5rem 0;
   }
@@ -1720,7 +1729,10 @@ border: 1px solid white;
     padding: 5rem 0;
   }
   .feedback {
-    padding: 5rem 0;
+    padding: 5rem 0 30rem 0;
+  }
+  .feedback-block img {
+    width: 84vw;
   }
   .feedback .main-next-btn {
     right: -1rem;
@@ -1761,4 +1773,5 @@ border: 1px solid white;
     padding: 3rem 3rem;
     width: 25rem;
   }
+  
 }
