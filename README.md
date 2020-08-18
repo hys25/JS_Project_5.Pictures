@@ -1,6 +1,10 @@
 # Picture
 
+<<<<<<< HEAD
 
+=======
+This site is published at  [js5picture.netlify.app](https://js5picture.netlify.app/)
+>>>>>>> 2d9695f5449729ed0847d6dec228bd2633b2b996
 
 > JavaScript training
 
@@ -21,4 +25,8 @@ The site has such functionalities:
 - soft scroll button
 - Drag & Drop image upload
 
+<<<<<<< HEAD
 The project is  **validated**  without errors and warnings, all  **images are optimized**. The site is **adaptive** for mobile phone, tablet and desktop.
+=======
+The project is  **validated**  without errors and warnings, all  **images are optimized**. The site is adaptive only for desktop.
+>>>>>>> 2d9695f5449729ed0847d6dec228bd2633b2b996
